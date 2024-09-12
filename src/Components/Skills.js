@@ -15,7 +15,7 @@ function Skills() {
             <div className="card skills-card mb-4">
               <img
                 className="card-img-top skill-img"
-                src="mongoDB.png"
+                src={`${process.env.PUBLIC_URL}/mongoDB.png`}
                 alt="MongoDB"
               />
               <div className="card-body">
@@ -30,7 +30,7 @@ function Skills() {
             <div className="card skills-card mb-4">
               <img
                 className="card-img-top skill-img"
-                src="react.png"
+                src={`${process.env.PUBLIC_URL}/react.png`}
                 alt="React"
               />
               <div className="card-body">
@@ -45,7 +45,7 @@ function Skills() {
             <div className="card skills-card mb-4">
               <img
                 className="card-img-top skill-img"
-                src="nodeExpress.png"
+                src={`${process.env.PUBLIC_URL}/nodeExpress.png`}
                 alt="Node.js and Express"
               />
               <div className="card-body">
@@ -62,7 +62,7 @@ function Skills() {
             <div className="card skills-card mb-5">
               <img
                 className="card-img-top skill-img"
-                src="javascript.jpg"
+                src={`${process.env.PUBLIC_URL}/javascript.jpg`}
                 alt="JavaScript"
               />
               <div className="card-body">

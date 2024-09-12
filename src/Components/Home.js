@@ -7,7 +7,7 @@ function Home() {
         <div class="col-12 col-md-6 pt-5 d-flex justify-content-center justify-content-md-start">
           <img
             class="rounded-circle"
-            src="niqi.png"
+            src={`${process.env.PUBLIC_URL}/niqi.png`}
             alt="Ashiqin"
             id="niqi-img"
           />
