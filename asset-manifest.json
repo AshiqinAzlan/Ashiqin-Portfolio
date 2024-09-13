@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ashiqin-Portfolio/static/css/main.32a1b82f.css",
+    "main.css": "/Ashiqin-Portfolio/static/css/main.e0643901.css",
     "main.js": "/Ashiqin-Portfolio/static/js/main.726af905.js",
     "static/js/453.adab4342.chunk.js": "/Ashiqin-Portfolio/static/js/453.adab4342.chunk.js",
     "index.html": "/Ashiqin-Portfolio/index.html",
-    "main.32a1b82f.css.map": "/Ashiqin-Portfolio/static/css/main.32a1b82f.css.map",
+    "main.e0643901.css.map": "/Ashiqin-Portfolio/static/css/main.e0643901.css.map",
     "main.726af905.js.map": "/Ashiqin-Portfolio/static/js/main.726af905.js.map",
     "453.adab4342.chunk.js.map": "/Ashiqin-Portfolio/static/js/453.adab4342.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32a1b82f.css",
+    "static/css/main.e0643901.css",
     "static/js/main.726af905.js"
   ]
 }
